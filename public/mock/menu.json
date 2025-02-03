@@ -1,0 +1,214 @@
+{
+  "msg": "操作成功",
+  "code": 1,
+  "data": [
+    {
+      "id": "3",
+      "text": "学生管理",
+      "state": null,
+      "checked": false,
+      "attributes": {
+        "icon": "fa fa-desktop",
+        "url": ""
+      },
+      "children": [
+        {
+          "id": "2",
+          "text": "学生信息列表",
+          "state": null,
+          "checked": false,
+          "attributes": {
+            "icon": "fa fa-th-list",
+            "url": "/system/user/list"
+          },
+          "children": [],
+          "parentId": "3",
+          "hasParent": true,
+          "hasChildren": false,
+          "url": "/system/user/list",
+          "icon": "fa fa-th-list",
+          "targetType": "iframe-tab"
+        },
+        {
+          "id": "6",
+          "text": "学生信息视图",
+          "state": null,
+          "checked": false,
+          "attributes": {
+            "icon": "fa fa-user",
+            "url": "/system/user/detail"
+          },
+          "children": [],
+          "parentId": "3",
+          "hasParent": true,
+          "hasChildren": false,
+          "url": "/system/user/detail",
+          "icon": "fa fa-user",
+          "targetType": "iframe-tab"
+        }
+      ],
+      "parentId": "0",
+      "hasParent": false,
+      "hasChildren": true,
+      "url": "",
+      "icon": "fa fa-desktop",
+      "targetType": "null"
+    },
+    {
+      "id": "77",
+      "text": "教师管理",
+      "state": null,
+      "checked": false,
+      "attributes": {
+        "icon": "fa fa-desktop",
+        "url": ""
+      },
+      "children": [
+        {
+          "id": "78",
+          "text": "教师信息列表",
+          "state": null,
+          "checked": false,
+          "attributes": {
+            "icon": "fa fa-th-list",
+            "url": "/system/teacher/list"
+          },
+          "children": [],
+          "parentId": "3",
+          "hasParent": true,
+          "hasChildren": false,
+          "url": "/system/teacher/list",
+          "icon": "fa fa-th-list",
+          "targetType": "iframe-tab"
+        },
+        {
+          "id": "79",
+          "text": "教师信息视图",
+          "state": null,
+          "checked": false,
+          "attributes": {
+            "icon": "fa fa-th-list",
+            "url": "/system/teacher/detail"
+          },
+          "children": [],
+          "parentId": "3",
+          "hasParent": true,
+          "hasChildren": false,
+          "url": "/system/teacher/detail",
+          "icon": "fa fa-th-list",
+          "targetType": "iframe-tab"
+        }
+      ],
+      "parentId": "0",
+      "hasParent": false,
+      "hasChildren": true,
+      "url": "",
+      "icon": "fa fa-desktop",
+      "targetType": "null"
+    },
+    {
+      "id": "84",
+      "text": "成绩管理",
+      "state": null,
+      "checked": false,
+      "attributes": {
+        "icon": "fa fa-desktop",
+        "url": ""
+      },
+      "children": [
+        {
+          "id": "85",
+          "text": "成绩信息列表",
+          "state": null,
+          "checked": false,
+          "attributes": {
+            "icon": "fa fa-th-list",
+            "url": "/system/score/list"
+          },
+          "children": [],
+          "parentId": "3",
+          "hasParent": true,
+          "hasChildren": false,
+          "url": "/system/score/list",
+          "icon": "fa fa-th-list",
+          "targetType": "iframe-tab"
+        },
+        {
+          "id": "86",
+          "text": "成绩信息视图",
+          "state": null,
+          "checked": false,
+          "attributes": {
+            "icon": "fa fa-user",
+            "url": "/system/score/detail"
+          },
+          "children": [],
+          "parentId": "3",
+          "hasParent": true,
+          "hasChildren": false,
+          "url": "/system/score/detail",
+          "icon": "fa fa-user",
+          "targetType": "iframe-tab"
+        }
+      ],
+      "parentId": "0",
+      "hasParent": false,
+      "hasChildren": true,
+      "url": "",
+      "icon": "fa fa-desktop",
+      "targetType": "null"
+    },
+    {
+      "id": "91",
+      "text": "课程管理",
+      "state": null,
+      "checked": false,
+      "attributes": {
+        "icon": "fa fa-desktop",
+        "url": ""
+      },
+      "children": [
+        {
+          "id": "92",
+          "text": "课程信息列表",
+          "state": null,
+          "checked": false,
+          "attributes": {
+            "icon": "fa fa-th-list",
+            "url": "/system/course/list"
+          },
+          "children": [],
+          "parentId": "3",
+          "hasParent": true,
+          "hasChildren": false,
+          "url": "/system/course/list",
+          "icon": "fa fa-th-list",
+          "targetType": "iframe-tab"
+        },
+        {
+          "id": "93",
+          "text": "课程信息视图",
+          "state": null,
+          "checked": false,
+          "attributes": {
+            "icon": "fa fa-user",
+            "url": "/system/course/detail"
+          },
+          "children": [],
+          "parentId": "3",
+          "hasParent": true,
+          "hasChildren": false,
+          "url": "/system/course/detail",
+          "icon": "fa fa-user",
+          "targetType": "iframe-tab"
+        }
+      ],
+      "parentId": "0",
+      "hasParent": false,
+      "hasChildren": true,
+      "url": "",
+      "icon": "fa fa-desktop",
+      "targetType": "null"
+    }
+  ]
+}
