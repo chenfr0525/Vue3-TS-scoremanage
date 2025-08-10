@@ -13,21 +13,33 @@
 - Mock数据 (位于public/mock文件夹)
 
 # 功能特性
+
+- 登录页
+![登录页](/public/login.png)
+  
 - 学生管理
 -   学生信息列表
+-   ![学生信息列表](/public/student_info.png)
 -   学生信息视图
+-   ![学生信息视图](/public/student_view.png)
 
 - 教师管理
 -   教师信息列表
+-   ![教师信息列表](/public/teacher_info.png)
 -   教师信息视图
+-   ![教师信息视图](/public/teacher_view.png)
 
 - 成绩管理
 -   成绩信息列表
+-   ![成绩信息列表](/public/score_info.png)
 -   成绩信息视图
+-   ![成绩信息视图](/public/score_view.png)
 
 - 课程管理
 -   课程信息列表
+-   ![课程信息列表](/public/course_info.png)
 -   课程信息视图
+-   ![课程信息视图](/public/course_view.png)
 
 项目结构
 
